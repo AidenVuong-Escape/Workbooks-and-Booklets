@@ -71,7 +71,7 @@ Testing/
 
 # Extra Files
 .vs/
-FirstProject/FirstProject.vcxproj.filters
-FirstProject/FirstProject.vcxproj.user
+Booklet 2\Workbook02/Workbook02.vcxproj.filters
+Booklet 2\Workbook02/Workbook02.vcxproj.user
 x64/
 Output-Build.txt

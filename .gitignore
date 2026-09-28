@@ -71,13 +71,7 @@ Testing/
 
 # Extra Files
 .vs/
-Booklet 2/Workbook02/Workbook02/Workbook02.vcxproj.filters
-Booklet 2/Workbook02/Workbook02/Workbook02.vcxproj.user
-Booklet 3/Workbook03/Workbook03/Workbook03.vcxproj.filters
-Booklet 3/Workbook03/Workbook03/Workbook03.vcxproj.user
-Booklet 4/Workbook04/Workbook04/Workbook04.vcxproj.filters
-Booklet 4/Workbook04/Workbook04/Workbook04.vcxproj.user
-Booklet 5/Workbook05/Workbook05/Workbook05.vcxproj.filters
-Booklet 5/Workbook05/Workbook05/Workbook05.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.user
 x64/
 Output-Build.txt
